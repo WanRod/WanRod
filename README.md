@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! Eu sou o Wanderson Rodrigues
+### Olá, seja bem-vindo! Eu sou o Wanderson Rodrigues 👋
 
 ---
 
