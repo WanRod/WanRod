@@ -2,7 +2,7 @@
 
 ---
 
-- 👨‍💻 Atuando como programador back-end
+- 👨‍💻 Atuando como programador back-end em C#
 - 🎓 Formado em Técnico em Informática pelo IFNMG
 - 📚 Cursando Engenharia da Computação
 
@@ -29,5 +29,5 @@
 
 #### Contato:
   
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanrod1010@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanrod.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanrod/)
